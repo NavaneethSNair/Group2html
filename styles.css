@@ -1,0 +1,15 @@
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-size: 500%;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+p {
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    font-size:130%;
+}
